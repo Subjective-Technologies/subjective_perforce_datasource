@@ -1,4 +1,5 @@
 {
+  "description": "Ingests Perforce depot/workspace content into a target directory for source indexing and automation workflows.",
   "domainCategory": "Software Development",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Perforce",
-      "text": "A Subjective data source for perforce.",
+      "text": "Ingests Perforce depot/workspace content into a target directory for source indexing and automation workflows.",
       "image": {
         "src": "/subjective_perforce_datasource/icon.svg",
         "alt": "Perforce icon"
